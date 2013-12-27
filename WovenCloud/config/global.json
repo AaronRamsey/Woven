@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Woven": {
+            "applicationId": "SDsvRoeXSFQ4splQSrSlm5FrvCSvc0ztRfZsHJTS", 
+            "masterKey": "SKaaJbkHtxPZyHpEzYJNw26GGA9YN3PjSLuY9Cfr"
+        }, 
+        "_default": {
+            "link": "Woven"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.13"
+    }
+}
